@@ -1,0 +1,9 @@
+Feature,r,p-value,significant
+response_length,0.3385,0.0,True
+sent_count,0.2758,0.0,True
+type_token_ratio,-0.2085,0.0,True
+punct_density,0.1245,0.0,True
+ner_density,0.1078,0.0,True
+mean_token_length,0.0255,0.04992,True
+hedge_density,0.0114,0.382019,False
+avg_sent_length,-0.0101,0.435474,False

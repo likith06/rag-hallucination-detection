@@ -1,0 +1,4 @@
+Model,F1,Precision,Recall,AUC-ROC,AUC-PR
+Majority Class,0.0,0.0,0.0,0.5,0.2907
+TF-IDF + LR,0.5533,0.4985,0.6216,0.7502,0.5333
+Sentence Emb + LR (RQ1),0.4945,0.4158,0.61,0.7038,0.4846
